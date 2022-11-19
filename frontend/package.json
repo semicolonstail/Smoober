@@ -20,7 +20,7 @@
     "vuejs-datetimepicker": "^1.1.13"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "vue-cli-plugin-bootstrap-vue": "^0.4.0",
     "vue-template-compiler": "^2.6.10"
   },
